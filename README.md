@@ -1,2 +1,2 @@
 # Amazon-sentiment-analyzer
-Web scraping ans sentiment analyzer on amazon comments
+Web scraping and sentiment analyzer on amazon comments
